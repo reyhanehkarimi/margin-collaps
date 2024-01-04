@@ -1,0 +1,15 @@
+.parent {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.one {
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    background-color: red;
+}
